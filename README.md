@@ -17,16 +17,17 @@ The database **`ig_clone`** is created through SQL. There are **7** tables namel
  
 **The following questions are explored in this case study:**
  
--- First 10 users on the platform
--- Total number of registrations
--- Total number of posts
--- Number of Sign-ins per Day
--- Inactive users
--- Most likes on a photo
--- Number of photo posted by most active users
--- Most popular tag names by usage
--- Most popular tag names by likes
+- First 10 users on the platform
+- Total number of registrations
+- Total number of posts
+- Number of Sign-ins per Day
+- Inactive users
+- Most likes on a photo
+- Number of photo posted by most active users
+- Most popular tag names by usage
+- Most popular tag names by likes
+-
+-
+-
 
-
- 
 -------------------------------------------------------------------------------------------------------------------------------------------------
