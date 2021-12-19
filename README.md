@@ -30,6 +30,6 @@ There are 7 tables: *Users, Photos, Likes, Comments, Follows, Tags, Photo Tags*.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data Visualization 
 
-*See on TableauPublic:* **[Dashboard](https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard/InstagramCloneDataAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**<br />
+*See Live on Tableau Public:* **[Interactive Dashboard](https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard/InstagramCloneDataAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**<br />
 
 ![Instagram Clone Data Analysis Dashboard](visuals/InstagramCloneDashboard.png)
