@@ -5,13 +5,12 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data and Exploration
 
-### Dataset: <br />
+### Dataset <br />
 
-The database **`ig_clone`** is created through SQL. There are **`7`** tables namely: *Users, Photos, Likes, Comments, Follows, Tags, Photo Tags*.
+The database **`ig_clone`** is created using SQL. There are 7 tables: *Users, Photos, Likes, Comments, Follows, Tags, Photo Tags*.
 
--------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Exploration Questions: <br />
+### Exploration Questions <br />
  
 **The following questions are explored in this case study:**
  
@@ -29,3 +28,6 @@ The database **`ig_clone`** is created through SQL. There are **`7`** tables nam
 - Total years on the platform
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+## Data Visualization 
+
+![Instagram Clone Data Analysis Dashboard](Instagram Clone Data Analysis Dashboard.png)
