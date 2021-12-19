@@ -9,7 +9,7 @@
 
 ### Dataset: <br />
 
-The dataset used in this Hadoop-Hive Case Study is collected from the official website of the [NYC Taxi and Limousine Commission (TLC)](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) of the year 2015. The yellow taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+The database **`ig_clone`** is created through SQL. There are **7** tables namely: *Users, Photos, Likes, Comments, Follows, Tags, Photo Tags*.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,10 +17,10 @@ The dataset used in this Hadoop-Hive Case Study is collected from the official w
  
 **The following questions are explored in this case study:**
  
--
--
--
--
+--
+--
+--
+--
 --
 --
 --
