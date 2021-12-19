@@ -30,4 +30,4 @@ The database **`ig_clone`** is created using SQL. There are 7 tables: *Users, Ph
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data Visualization 
 
-![Instagram Clone Data Analysis Dashboard](Instagram Clone Data Analysis Dashboard.png)
+![Instagram Clone Data Analysis Dashboard](visuals/InstagramCloneDashboard.png)
