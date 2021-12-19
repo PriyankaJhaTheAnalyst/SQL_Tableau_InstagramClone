@@ -26,8 +26,8 @@ The database **`ig_clone`** is created through SQL. There are **7** tables namel
 - Number of photo posted by most active users
 - Most popular tag names by usage
 - Most popular tag names by likes
--
--
--
+- Users who have liked every single photo on the platform 
+- Percentage of users who have either never commented on a photo or likes every photo
+- Total years on the platform
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
